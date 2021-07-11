@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(49, 159, 223);
+}
+input{
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: blueviolet;
+    color: coral;
+    border-style: none;
+}
+#myform{
+    text-align: center;
+    margin-top: 20px;
+
+}
+h1{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 80px;
+    margin-top: 20px;
+
+
+}
+
+div.at-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+}
+.at-item{
+    color: blueviolet;
+    animation-name: inherit;
+    animation-duration: 3s;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-duration: normal;
+
+}
